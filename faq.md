@@ -4,7 +4,7 @@
 
 ### How much can I ask for?
 
-  Please refer to the [section on bounty levels in our README](/levels.md) for funding limits.
+  Please refer to the [section on bounty levels in our README](https://github.com/use-inkubator/Ecosystem-Grants#bounty-levels) for funding limits.
 
 ### Can anyone apply?
 
@@ -24,11 +24,11 @@
 
 ### My application was rejected. Do you have any recommendations on where to go from here?
 
-  We usually give reasons why an application was rejected. We always try to be constructive and work with you towards an application that is beneficial to all parties.
+  We usually give reasons why an application was rejected. We always try to be constructive and work with you towards an application that is beneficial to all parties. If all else fails, check the [Grants & Funding](https://polkadot.com/developers/grants) page on polkadot.com for a list of ecosystem grants programs and instructions how to apply for treasury funding.
 
 ### One of your grantees is using my code without respecting the terms of its license
 
-  Please [reach out to us](mailto:maarten@astar.network) asap.
+  Please [reach out to us](mailto:sebastian@web3.foundation) asap.
 
 ### Why are other grant applications being accepted faster than mine?
 
@@ -42,7 +42,8 @@
 
 ### A council member approved my application. Does that mean it is accepted?
 
-  Depending on the size of the bounty, applications require two to five committee members to approve it. Since we have many different members with different backgrounds and specializations, it is possible that the committee disagrees and your application gets rejected even though one or two members approved it.
+  Depending on the size of the bounty, applications require at least three committee members to approve it. Since we have many different members with different backgrounds and specializations, it is possible that the committee disagrees and your application gets rejected even though one or two members approved it.
+
   The application is accepted once the pull request is merged.
 
 ## 🥳 After Approval
@@ -53,7 +54,7 @@
 
 ### Something came up and I cannot finish the project in time. Can we postpone or call off the rest of my project?
 
-  The Smart Contract Bouny council reserves the right to terminate an agreement that is behind schedule. However, we are not interested in taking away your bounty for any slight hiccup. More often than not, delays are part of the journey and do not constitute a reason for concern. The best way to handle changes in your plans is to get in touch with us. If you would like to prematurely end your work, we can amend your application and remove the milestones you won't be able to complete. If you decide to continue work at a later date, you can always reapply for the remaining milestones and potentially adapt them to take into account any insights you have gained in the meantime.
+  The ink!ubator council reserves the right to terminate an agreement that is behind schedule. However, we are not interested in taking away your bounty for any slight hiccup. More often than not, delays are part of the journey and do not constitute a reason for concern. The best way to handle changes in your plans is to get in touch with us. If you would like to prematurely end your work, we can amend your application and remove the milestones you won't be able to complete. If you decide to continue work at a later date, you can always reapply for the remaining milestones and potentially adapt them to take into account any insights you have gained in the meantime.
 
 ### I found one of my deliverables to be unnecessary, impossible or already done elsewhere. What do I do?
 
@@ -63,7 +64,7 @@
 
 ### How do I submit a milestone?
 
-  For details, please refer to the [milestone delivery guidelines](https://github.com/smart-contract-bounty/Support-Docs/blob/master/milestone-deliverables-guidelines.md) for the respective bounty program. Generally speaking, the most important part of a delivery is a list of **the same deliverables listed in the application** with links to their implementation/realisation (ideally pointing to a specific commit or tag, so you can continue working on your repository without messing up your delivery and complicating our evaluation) and any additional notes you might have. The list of deliverables for each of your milestones should be defined in your bounty agreement.
+  For details, please refer to the [milestone delivery guidelines](https://github.com/use-inkubator/Grant-Milestone-Delivery) for the respective bounty program. Generally speaking, the most important part of a delivery is a list of **the same deliverables listed in the application** with links to their implementation/realisation (ideally pointing to a specific commit or tag, so you can continue working on your repository without messing up your delivery and complicating our evaluation) and any additional notes you might have. The list of deliverables for each of your milestones should be defined in your bounty agreement.
 
 ### Can I submit two or more milestones at once?
 
