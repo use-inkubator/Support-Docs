@@ -1,7 +1,7 @@
 # Announcement Guidelines
 We supports many teams and organizations throughout the ecosystem. We often receive requests to participate in project announcements. Unfortunately, we don't do joint announcements and do not provide quotes.
 
-In the context of the bounty programs, we ask teams not to make any announcements before **the first milestone has been accepted**. This is in order to protect the community from projects that only intend to use the bounty announcement to raise funds and/or interest but don't intend to deliver on the application. For this reason, we reserve the right to terminate bounty if this rule is not observed. 
+In the context of the bounty programs, we ask teams not to make any announcements before **the first milestone has been accepted**. This is in order to protect the community from projects that only intend to use the bounty announcement to raise funds and/or interest but don't intend to deliver on the application. For this reason, we reserve the right to terminate the bounty if this rule is not observed. 
 
 Once you have completed your milestone, we can help by reviewing and proofreading your blogpost.
 
